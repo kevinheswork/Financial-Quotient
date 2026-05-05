@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "5ff0c99bdbc12863",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c2c737d7f46cf34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6e15876171b6e32",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新分頁"
+            }
+          },
+          {
+            "id": "1742604328bc8469",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/README.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "af821811af1115c2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a139df9b619ac765",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "檔案瀏覽器"
+        }
+      },
+      {
+        "id": "4df26cfe11c5991f",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "搜尋"
+        }
+      },
+      {
+        "id": "f86b346dfd29846f",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "標籤"
+        }
+      },
+      {
+        "id": "d91ee7f8a4c8529b",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "所有屬性"
+        }
+      },
+      {
+        "id": "846b31f536a4fd0c",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "書籤"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "fe3fa222204b3d3f",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "89fb1d62faa50d22",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "raw/8-2 機會成本最昂貴-摘要.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向連結"
+        }
+      },
+      {
+        "id": "8e48288ce451e9ee",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "wiki/concepts/複利與雪球公式.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "對外連結"
+        }
+      },
+      {
+        "id": "1c37371595e56bef",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "wiki/concepts/複利與雪球公式.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "大綱"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "bases:建立新的 base": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "1742604328bc8469",
+  "lastOpenFiles": [
+    "wiki/syntheses/延伸閱讀書單.md",
+    "wiki/README.md",
+    "wiki/concepts/從眾效應.md",
+    "wiki/README.md.tmp.19018.1777778140430",
+    "wiki/syntheses/延伸閱讀書單.md.tmp.19018.1777778128209",
+    "wiki/concepts/退休現金流風險.md",
+    "logs/lint.md.tmp.19018.1777777594323",
+    "wiki/concepts/詐騙心理機制.md.tmp.19018.1777777571706",
+    "wiki/concepts/核心衛星策略.md.tmp.19018.1777777570893",
+    "wiki/concepts/機會成本.md.tmp.19018.1777777546429",
+    "wiki/entities/reframe重塑財商概念.md.tmp.19018.1777777531894",
+    "wiki/entities/sedGNP8Ux",
+    "wiki/concepts/sed8y5j5P",
+    "wiki/concepts/退休現金流風險.md.tmp.19018.1777777124524",
+    "raw/9-3 不是天才，也可以學馬斯克.md",
+    "wiki/entities/馬斯克.md",
+    "wiki/concepts/第二曲線.md",
+    "wiki/concepts/第一性原理.md",
+    "wiki/entities/八百伴.md",
+    "raw/8-2 機會成本最昂貴-摘要.md",
+    "raw/9-2 創造性的財富成長思維.md",
+    "raw/9-1 想法和大家不一樣才能勝！.md",
+    "raw/7-3 突破自我，告別內卷！.md",
+    "wiki/concepts/機會成本.md",
+    "wiki/concepts/黑鑽定律.md",
+    "raw/8-1 黑鑽定律：遮蔽外界負面信號.md",
+    "raw/4-1 投資大咖下場怎麼這麼難看？.md",
+    "wiki/entities/25號宇宙實驗.md",
+    "wiki/concepts/內卷與密閉系統陷阱.md",
+    "wiki/concepts/披薩切割法.md",
+    "raw/7-2 現在開始就不遲：「只要出門，就會到」.md",
+    "wiki/entities/reframe重塑財商概念.md",
+    "wiki/entities/吳淡如.md",
+    "wiki/entities/大中華基金.md",
+    "wiki/concepts/定期定額.md",
+    "wiki/entities/巴菲特.md"
+  ]
+}
